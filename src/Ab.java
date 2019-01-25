@@ -6,6 +6,8 @@ public class Ab {
 	public void test()
 	{
 		Reporter.log("hi",true);
+		Reporter.log("hi",true);
+		Reporter.log("hi",true);
 	}
 
 }

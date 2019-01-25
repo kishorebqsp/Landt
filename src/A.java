@@ -5,7 +5,7 @@ public class A {
 	@Test
 	public void test()
 	{
-		Reporter.log("hi",true);
+		
 	}
 
 }
